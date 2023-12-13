@@ -1,5 +1,5 @@
 Algoritmo CP07_01
-	Escribir 'Número de alumnos que van al viaje:'
+	Escribir 'NÃºmero de alumnos que van al actual viaje:'
 	Leer num
 	precioAlum<-0
 	total<-0
